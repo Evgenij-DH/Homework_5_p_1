@@ -11,4 +11,47 @@
     }
 body {
     font-family: "Franklin Gothic", sans-serif;
+    background-color: #141b23;
+    background-image: url("images/night.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    color: #ffffff;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    font-weight: 500;
+}
+.link {
+    color:#8c96a4;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.active {
+    font-size: 17px;
+    margin-right: 27px;
+}
+.nav {
+    margin-top: 65px;
+    margin-left: 55px;
+}
+.title {
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 71px;
+    margin-left: 96px;
+}
+.text{
+    font-size: 13px;
+    line-height: 15.6px;
+    margin-top: 11px;
+    margin-left: 95px;
+    margin-right: 458px;
+}
+.footer {
+    color: #44494f;
+    font-size: 12px;
+    line-height: 14.4px;
+    margin-bottom: 50px;
+    margin-left: 54px;
+    margin-top: 198px;
 }
